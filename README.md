@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Alamin Hasan</h1>
 <h3 align="center">A CS Undergraduate with a Passion for Software Engineering</h3>
-<p align="right"> <img src="https://media.licdn.com/dms/image/D5603AQFM-9hfJ_SH3A/profile-displayphoto-shrink_100_100/0/1677430430135?e=1711584000&v=beta&t=OoNbBGrPvutKTrHHIy6zgK9_qm92HMf615BqRhlNYqc" alt="alaminatcse" /> </p>
+<!-- <p align="right"> <img src="https://media.licdn.com/dms/image/D5603AQFM-9hfJ_SH3A/profile-displayphoto-shrink_100_100/0/1677430430135?e=1711584000&v=beta&t=OoNbBGrPvutKTrHHIy6zgK9_qm92HMf615BqRhlNYqc" alt="alaminatcse" /> </p> -->
 
 - 🔭 I’m currently working on a **Smart-Agro Project**
 
