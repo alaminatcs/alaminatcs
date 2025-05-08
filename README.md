@@ -1,5 +1,5 @@
 <h2 align="center">Learning. Building. Growing @ CS</h2>
-<h3 align="center">alaminatcs — a tech-enthusiast and computer science learner.</h3>
+<h3 align="center"><strong><em>alaminatcs</em></strong> — a tech-enthusiast and computer science learner.</h3>
 
 ---
 
